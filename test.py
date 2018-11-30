@@ -8,7 +8,8 @@
 
 import numpy as np
 import os
-os.chdir("C:\\Users\\TeTe\\Desktop\\Projet20181130")
+#Change Your file name:
+os.chdir("C:\\Users\\TeTe\\Desktop\\ProjetMAP572-master")
 #import scipy as sp
 #from scipy.optimize import  minimize
 from TreePy import Cluster,Graph,Adjacency,PageRank
